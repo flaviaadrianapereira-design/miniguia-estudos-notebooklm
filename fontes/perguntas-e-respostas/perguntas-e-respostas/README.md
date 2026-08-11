@@ -13,6 +13,6 @@ Registrar as principais perguntas feitas durante o estudo e as respostas fundame
 - Orçamento pessoal
 - Consumo consciente
 - Organização financeira
-- Poupança e investimentos
-- Planejamento e financeiro
+- Poupança  investimentos
+- Planejamento  financeiro
 - Planejamento para o futuro
